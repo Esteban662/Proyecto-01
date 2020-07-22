@@ -1,0 +1,110 @@
+.cajahtml{
+    background-color: #F1BF98;
+    font-family: "roboto";
+}
+.cajanav {
+    inline-size: auto;
+    display: flex;
+    justify-content: right;
+    flex-direction: row-reverse;
+    font-size: larger;  
+}
+table,tr,th,td {
+    border: 2px solid #96939B;
+}
+th {
+    background-color: #FC814A ;
+}
+.cajatb {
+    display: flex;
+    justify-content: start;
+    margin-left: 300px;
+}
+iframe {
+    width: 40%;
+}
+.container {
+    display: flex;
+    padding-left: 100px;
+    padding: 0.0005px;
+    margin-right: 1650px;
+    
+    
+  }
+  .child {
+    background: #60e0b0;
+    padding: .2rem;
+  }
+  .mapa {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+  }
+  .maps {
+      display: flex;
+      padding-left: 300px;
+
+  }
+  .formulario {
+      background-color: #FC814A;
+      height: 12rem;
+      display: flex;
+      justify-content: center;
+      padding-bottom: 100px;
+      padding-top: 20px;
+      margin-left: 300px;
+      margin-right: 300px;
+      
+  }
+  .cajaimg {
+      display: flex;
+      justify-content: center;
+  }
+  .logo {
+      background-color: #012A36;
+      height: 20rem;
+      display: flex;
+      justify-content: center;
+  }
+  .cajah3 {
+      display: flex;
+      justify-content: start;
+      margin-left: 300px;
+      margin-right: 200px;
+      
+  }
+  .cajaproductos {
+    background-color: #FC814A;
+    inline-size: auto;
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-right: 200px;
+  }
+  .cajaparrafo {
+      background-color: #FC814A;
+      display: block;
+      margin-left: 300px;
+      margin-right: 200px;
+      margin-top: 0px;
+      padding-top: 0.05px;
+      padding-left: 10px;
+      padding-bottom: 5px;
+  }
+  .imgprod {
+      height: 300px;
+      width: 300px;
+  }
+  a {
+      text-decoration: none;
+  }
+  .contactotitulo {
+    padding-top: 80px;
+    display: flex;
+    padding-left: 350px;
+  }
+  .parrafoproducto {
+    background-color: #FC814A;
+    display: block;
+  }
